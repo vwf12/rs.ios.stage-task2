@@ -10,7 +10,7 @@
     {
          [outputArray addObject:@"0"];
     }
-    NSInteger counter = 0;
+
     
     if (inputArray.count == 0) {
         return @"";
